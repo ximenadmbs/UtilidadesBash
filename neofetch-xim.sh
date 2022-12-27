@@ -3,7 +3,7 @@
 echo " "
 echo -e "\e[0;38;5;129m                      I.                  \e[0m \e[0;38;5;135mximena\e[0m@\e[0;38;5;135mamdfxlinux\e[0m"
 echo -e "\e[0;38;5;129m                      XIm                 \e[0m -----------------"
-echo -e "\e[0;38;5;129m                  ....XIIm .             \e[0m \e[0;38;5;135m OS\e[0m: Ubuntu 22.04.1 LTS x86_64"
+echo -e "\e[0;38;5;129m                  ....XIIm .             \e[0m \e[0;38;5;135m OS\e[0m: Xibuntu 22.04.1 LTS x86_64"
 echo -e "\e[0;38;5;135m             ..;I''   IXIMI 'I;;         \e[0m \e[0;38;5;135m Kernel\e[0m: 5.15.0-56-generic "
 echo -e "\e[0;38;5;135m..        ..I'         XMMML    I;.      \e[0m \e[0;38;5;135m Uptime\e[0m: 8 hours, 33 mins "
 echo -e "\e[0;38;5;135m  '';..  ;P            XIMENA     'I.    \e[0m \e[0;38;5;135m Packages\e[0m: 2430 (dpkg), 12 (flatpak), 17 (snap) "
@@ -23,7 +23,7 @@ echo " "
 echo "Ximena bash scrip [Versión 1.7]"
 echo "https://github.com/ximenadmbs"
 echo "© 2022 Corporation. Todos los derechos reservados, "
-echo " "
+echo " ICAgICAgICAgICAgICAgICAgICAgIEkuICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgWEltICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIC4uLi5YSUltIC4gICAgICAgICAgICAKICAgICAgICAgICAgIC4uO0knJyAgIElYSU1JICdJOzsgICAgICAgIAouLiAgICAgICAgLi5JJyAgICAgICAgIFhNTU1MICAgIEk7LiAgICAgCiAgJyc7Li4gIDtQICAgICAgICAgICAgWElNRU5BICAgICAnSS4gICAKICAgICAnJ1hYaSsuICAgICAgICAgICA6SU1FTkE6ICAgICAgJzogIAogICAgICAuOicnSU1FTkFpOi4gICAgIDpYSU1FTjogICAgICAgJzogCiAgICAgIFggICAgJyc6WElNRU5BOiAgOklNRU5BICAgICAgICAgSTsKICAgICAgSSAgICAgICAgJyc7QkFDSFNDUklQWElMLiAgICAgICAgSQogICAgICBNICAgICAgICAgICAnJztYSU1FTkFCQVNIWEwgICAgICBJCiAgICAgIEUgICAgICAgICAgICAgIDtYWFhCQVNIUConJyogICAgIEkKICAgICAgIE4gICAgICAgICAgLjRYSU1FTkFQJyAgICAgICAgICBJIAogICAgICAgIEEgICAgICAgLjtYSU1QJycgICAgICAgICAgICAuSSAgCiAgICAgICAgICdCLiAuOycnIDsnICAgICAgICAgICAgICAuO0kgICAKICAgICAgICAgIC47QSAgICBJICAgICAgICAgICAgLi47SScgICAgIAogICAgICAgLionICAgJyc7SS4uICAgICAgIC4uOztJJyAgICAgICAgCiAgICAgJycgICAgICAgJyAgICAnJycnJycnJyAgICAgICAgIAo="
 
 #chmod 777 neofetch-xim.sh
 #Ejecutar con ./neofetch-xim.sh
