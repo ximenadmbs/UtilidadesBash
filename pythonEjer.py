@@ -1,46 +1,23 @@
-print(10)
-print(10.5)
+# Mostramos un mensaje en pantalla
+print("Hola, mundo!")
 
-print('Hola Mundo')
+# Pedimos al usuario que ingrese dos números
+num1 = int(input("Ingresa el primer número: "))
+num2 = int(input("Ingresa el segundo número: "))
+num3 = int(input("Ingresa el tercer número: "))
 
-#logico (buliano)
-#False apagado, True activado
-True
-False
+# Calculamos la suma de los números
+suma = num1 + num2 + num3
 
-#listas
-['homa mundo', 10, 'hola2', 10.1,]
+# Mostramos el resultado
+print(f"La suma de {num1}, {num2} y {num3} es {suma}.")
 
-#Diccionarios
-print(type({
-    "nombre":"Ryan",
-    "apellido":"ray",
-    "nick":"fazt"
-}))
+# Mostramos los números del 1 al 10
+for i in range(1, 11):
+    print(i)
 
-#variables
-name = 'Fazt'
-print(name)
+# Pedimos al usuario que ingrese su nombre
+nombre = input("¿Cómo te llamas? ")
 
-name = None
-print(name)
-
-x, libro = 100, "50 sombras"
-print(x, libro)
-
-
-#strings
-myStr = 'hola Mundo'
-print(myStr.upper())
-print(myStr.lower())
-print(myStr.swapcase())
-print(myStr.capitalize())
-print(myStr.replace('hola', 'bye'))
-print(myStr.replace('hola', 'bye').upper())
-
-#imprimir la fecha
-import datetime
-horaYfecha = datetime.datetime.now()
-print(horaYfecha)
-print(horaYfecha.strftime('%d/%m/%Y %H:%M:%S'))
-
+# Saludamos al usuario
+print(f"Hola, {nombre}!")
